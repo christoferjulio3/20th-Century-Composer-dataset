@@ -25,6 +25,13 @@ Regarding the sample sizes, composer name, and styles, the information can be se
 | Nationalism    | Bela Bartok              | 247          |
 | Nationalism    | Manuel de Falla          | 14           |
 | Nationalism    | Leos Janacek             | 43           |
+| Late Romantic  | Arnold Schoenberg        | 03           |
+| Late Romantic  | Alban Berg               | 09           |
+| Modern         | Bela Bartok              | 144          |
+
+
+*Modern label indicates Bela Bartok's work which does not include as Nationalism (We do not include this in our paper).
+*Late Romantic label indicates the pre-serialism works of the serialism composer (We do not include this in our paper).
 
 
 For more detailed information regarding the dataset and studies, please visit our paper: https://zenodo.org/records/10112863
