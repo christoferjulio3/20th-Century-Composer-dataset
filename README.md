@@ -33,6 +33,7 @@ Regarding the sample sizes, composer name, and styles, the information can be se
 1. *Modern label indicates Bela Bartok's works which does not include as Nationalism (We do not include this in our paper).
 2. *Late Romantic label indicates the pre-serialism works of the serialism composer (We do not include this in our paper).
 
+For those who only wants to download some specific composers, please go to the by-composers subfolder in the dataset. If you want to download all the pieces, please go to the all-pieces subfolder.
 For more detailed information regarding the dataset and studies, please visit our paper: https://zenodo.org/records/10112863
 
 
