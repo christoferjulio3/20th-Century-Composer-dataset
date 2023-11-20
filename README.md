@@ -1,12 +1,10 @@
 # Early 20th-Century-Composer-dataset
 
-This dataset consists of the ** piano works** of Early 20th century composers. We divide 10 different composers from the Early 20th century to 4 specific styles: Serialism, Impressionism, Nationalism, and Neoclassicism.
+This dataset consists of the piano works of Early 20th century composers. We divide 10 different composers from the Early 20th century several specific styles: Serialism, Neoclassicism, Impressionism, Nationalism, Late Romantic, and Modern. However, in our study, we only utilize some portions of our dataset (focusing on four different styles only).
 
 For your reference, there are some limitations in our dataset:
 1. Only piano works.
 2. Focus on first 20 measures (approximately one page).
-3. For Bartok works: We do not include Night Music.
-   
 
 Regarding the sample sizes, composer name, and styles, the information can be seen below:
 
@@ -25,13 +23,13 @@ Regarding the sample sizes, composer name, and styles, the information can be se
 | Nationalism    | Bela Bartok              | 247          |
 | Nationalism    | Manuel de Falla          | 14           |
 | Nationalism    | Leos Janacek             | 43           |
-| Late Romantic  | Arnold Schoenberg        | 03           |
-| Late Romantic  | Alban Berg               | 09           |
-| Modern         | Bela Bartok              | 144          |
+| Late Romantic*<sup>2  | Arnold Schoenberg        | 03           |
+| Late Romantic*<sup>2  | Alban Berg               | 09           |
+| Modern*<sup>1       | Bela Bartok              | 144          |
 
 
-1. *Modern label indicates Bela Bartok's works which does not include as Nationalism (We do not include this in our paper).
-2. *Late Romantic label indicates the pre-serialism works of the serialism composer (We do not include this in our paper).
+1. *Modern label indicates Bela Bartok's works which do not include as Nationalism (We do not include this in our paper).
+2. *Late Romantic label indicates the pre-serialism works of the Serialism composer, which is mainly associated with late romantic period (We do not include this in our paper).
 
 For those who only wants to download some specific composers, please go to the by-composers subfolder in the dataset. If you want to download all the pieces, please go to the all-pieces subfolder.
 
